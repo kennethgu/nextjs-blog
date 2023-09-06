@@ -4,7 +4,7 @@ import Navbar from '../components/navbar'
 
 export default function Home() {
   return (
-    <main className="flex lg:flex-row flex-col py-24 lg:w-3/5 md:w-1/2 w-3/4 text-left mx-auto lowercase">
+    <main className="flex lg:flex-row flex-col py-24 lg:w-3/5 md:w-1/2 w-3/4 text-left mx-auto">
       <Navbar />
 
       <div className="py-1 px-5 shrink">

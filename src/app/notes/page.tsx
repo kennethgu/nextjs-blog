@@ -4,12 +4,17 @@ import Navbar from '../../components/navbar'
 
 export default function Home() {
   return (
-    <main className="flex lg:flex-row flex-col py-24 lg:w-3/5 md:w-1/2 w-3/4 text-left mx-auto lowercase">
+    <main className="flex lg:flex-row flex-col py-24 lg:w-3/5 md:w-1/2 w-3/4 text-left mx-auto">
       <Navbar />
 
       <div className="py-1 px-5 shrink">
         <p>
           I&apos;m hoping to use this page to note at least one thing I learned each day! Keep me accountable :)
+        </p>
+
+        <p className="lg:w-50">
+          <span className="font-bold">Tuesday, Sept 5:&nbsp;</span>
+          First real day of junior year classes! Learned about the diffraction limit in 224 today and <Link className="accented hover:underline" href='https://doi.org/10.48550/arXiv.2004.07659'>algorithmic bounds</Link> for distinguishing k Airy disks with some minimum separataion &Delta;. Proving the theorem (at least in one dimension) involves Fourier transforms and a clever construction/manipulation of matrices.
         </p>
 
         <p className="lg:w-50">
