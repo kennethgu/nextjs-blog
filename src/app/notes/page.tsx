@@ -17,7 +17,7 @@ export default function Home() {
 
       <div className="py-1 px-5 shrink">
         <p className="border-b border-gray-300 w-auto rounded-xl border bg-gray-100 p-2">
-          i'm hoping to use this page to note at least one thing i learned each day! keep me accountable :)
+          i&apos;m hoping to use this page to note at least one thing i learned each day! keep me accountable :)
         </p>
 
         <br></br>
