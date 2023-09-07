@@ -9,7 +9,7 @@ export default function Navbar() {
           </h1>
         </Link>
         <Link href="/notes">
-          <h1 className="text-lg dark:text-neutral-300 text-neutral-600 lg:px-0 px-4 hover:text-black dark:hover:text-white underline-offset-4">
+          <h1 className="text-lg dark:text-neutral-300 text-neutral-500 lg:px-0 px-4 hover:text-black dark:hover:text-white underline-offset-4">
             notes
           </h1>
         </Link>
