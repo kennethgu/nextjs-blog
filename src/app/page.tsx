@@ -9,10 +9,10 @@ export default function Home() {
 
       <div className="py-1 px-5 shrink">
         <p className="lg:w-50">
-          Hi! My name is Kenny Gu, and I&apos;m a junior at Harvard College studying statistics, math, and computer science. I&apos;m interested in a variety of things, including – but certainly not limited to – machine learning, probability, electoral politics, accessibility in education, and causal inference.
+          Hi! My name is Kenny Gu, and I&apos;m a junior at Harvard College (in Currier House!) studying statistics, math, and computer science. I&apos;m interested in a variety of things, including – but certainly not limited to – machine learning, probability, electoral politics, accessibility in education, and causal inference.
         </p>
         <p>
-          I&apos;m mostly creating this website/blog for myself (or so I tell myself): to keep track of things I&apos;m learning and maybe jot down some words on things I&apos;m thinking about. not sure how often I&apos;ll update this, but I&apos;ll try to keep it somewhat regular.
+          I&apos;m mostly creating this website/blog for myself (or so I tell myself): to keep track of things I&apos;m learning and maybe jot down some words on things I&apos;m thinking about. Not sure how often I&apos;ll update this, but I&apos;ll try to keep it somewhat regular.
         </p>
       </div>
     </main>
