@@ -37,7 +37,7 @@ export default function Home() {
 
         <p className="lg:w-50">
         <span className="font-bold">Thursday, October 12:&nbsp;</span>
-          Recall that low temperatures are useful for propagating information down a binary Ising tree. On the other hand, using Glauber dynamics to sample from the Ising model is more efficient at high temperatures. There's a similar phase transition when considering the mixing time with respect to some distance (e.g., TV distance).
+          Recall that low temperatures are useful for propagating information down a binary Ising tree. On the other hand, using Glauber dynamics to sample from the Ising model is more efficient at high temperatures. There&apos;s a similar phase transition when considering the mixing time with respect to some distance (e.g., TV distance).
         </p>
 
         <p className="lg:w-50">
