@@ -28,6 +28,11 @@ export default function Home() {
         </Link>
 
         <p className="lg:w-50">
+        <span className="font-bold">Wednesday, November 8:&nbsp;</span>
+          From 224: a class of functions has SQ dimension at least <InlineMath math="D"/> with respect to some distribution <InlineMath math="q"/> if there exist <InlineMath math="f_1, \dots, f_D"/> such that for all <InlineMath math="i,j"/>, <InlineMath math="\left|\mathbb{E}_{x \sim q}[f_i(x) f_j(x)] \right| \leq \frac{1}{D}"/> --- that is, <InlineMath math="D"/> roughly orthogonal functions. Kearns et al. (1994) uses SQ dimension to form SQ lower bounds: that is, learning from that class using samples from <InlineMath math="q"/> requires <InlineMath math="\Omega(D\tau^2)"/> samples, with tolerance <InlineMath math="\tau"/>.
+        </p>
+
+        <p className="lg:w-50">
         <span className="font-bold">Tuesday, November 7:&nbsp;</span>
           Learned that you can accidentally add a line to your Git config file somehow so that it fixes the origin remote for every repo on your laptop. One line. Sigh.
         </p>
