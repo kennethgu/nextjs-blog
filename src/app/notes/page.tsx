@@ -28,6 +28,11 @@ export default function Home() {
         </Link>
 
         <p className="lg:w-50">
+        <span className="font-bold">Friday, November 10:&nbsp;</span>
+          Some mammals (e.g., lemuriform primates) have <Link href="https://en.wikipedia.org/wiki/Toothcomb" className='accented hover:underline'>toothcombs</Link>, which are sets of teeth that resemble combs. Mostly used for grooming, but there&apos;s also some potential other functions like olfaction. Evolved independently through convergent evolution in different mammals!
+        </p>
+
+        <p className="lg:w-50">
         <span className="font-bold">Thursday, November 9:&nbsp;</span>
           From 6.7910: two somewhat related observations about AI/ML research/innovation. Rich Sutton&apos;s <Link href='http://www.incompleteideas.net/IncIdeas/BitterLesson.html' className='accented hover:underline'>Bitter Lesson</Link> notes that humans often try to incorporate patterns they use and recognize when building architectures and algorithms, but most of the time methods relying on scaling compute perform best. Sara Hooker&apos;s <Link href="https://hardwarelottery.github.io" className='accented hover:underline'>Hardware Lottery</Link> notes that often the algorithms and research ideas that gain the most traction are those that are able to take advantage of the latest hardware, rather than the &quot;best&quot; ones.
         </p>
