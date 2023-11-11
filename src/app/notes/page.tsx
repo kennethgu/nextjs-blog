@@ -28,6 +28,11 @@ export default function Home() {
         </Link>
 
         <p className="lg:w-50">
+        <span className="font-bold">Thursday, November 9:&nbsp;</span>
+          From 6.7910: two somewhat related observations about AI/ML research/innovation. Rich Sutton&apos;s <Link href='http://www.incompleteideas.net/IncIdeas/BitterLesson.html' className='accented hover:underline'>Bitter Lesson</Link> notes that humans often try to incorporate patterns they use and recognize when building architectures and algorithms, but most of the time methods relying on scaling compute perform best. Sara Hooker&apos;s <Link href="https://hardwarelottery.github.io" className='accented hover:underline'>Hardware Lottery</Link> notes that often the algorithms and research ideas that gain the most traction are those that are able to take advantage of the latest hardware, rather than the &quot;best&quot; ones.
+        </p>
+
+        <p className="lg:w-50">
         <span className="font-bold">Wednesday, November 8:&nbsp;</span>
           From 224: a class of functions has SQ dimension at least <InlineMath math="D"/> with respect to some distribution <InlineMath math="q"/> if there exist <InlineMath math="f_1, \dots, f_D"/> such that for all <InlineMath math="i,j"/>, <InlineMath math="\left|\mathbb{E}_{x \sim q}[f_i(x) f_j(x)] \right| \leq \frac{1}{D}"/> --- that is, <InlineMath math="D"/> roughly orthogonal functions. Kearns et al. (1994) uses SQ dimension to form SQ lower bounds: that is, learning from that class using samples from <InlineMath math="q"/> requires <InlineMath math="\Omega(D\tau^2)"/> samples, with tolerance <InlineMath math="\tau"/>.
         </p>
@@ -51,7 +56,7 @@ export default function Home() {
 
         <p className="lg:w-50">
         <span className="font-bold">Saturday, November 4:&nbsp;</span>
-          Learned about the <Link href="https://x.com/getjonwithit/status/1720832283026854098?s=20">Rabin-Scott theorem</Link> from Twitter: while a DFA is a special case of an NFA, NFAs are equivalent to DFAs. Given an NFA, we can design a DFA with state space equal to the power set of the state space of the NFA and design our transition function appropriately. There seems to be a pretty neat parallel to the standard proof that a higher-order Markov chain can be converted to a first-order Markov chain.
+          Learned about the <Link href="https://x.com/getjonwithit/status/1720832283026854098?s=20" className='accented hover:underline'>Rabin-Scott theorem</Link> from Twitter: while a DFA is a special case of an NFA, NFAs are equivalent to DFAs. Given an NFA, we can design a DFA with state space equal to the power set of the state space of the NFA and design our transition function appropriately. There seems to be a pretty neat parallel to the standard proof that a higher-order Markov chain can be converted to a first-order Markov chain.
         </p>
 
         <p className="lg:w-50">
