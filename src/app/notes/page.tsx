@@ -28,6 +28,11 @@ export default function Home() {
         </Link>
 
         <p className="lg:w-50">
+        <span className="font-bold">Saturday, November 11:&nbsp;</span>
+          
+        </p>
+
+        <p className="lg:w-50">
         <span className="font-bold">Friday, November 10:&nbsp;</span>
           Some mammals (e.g., lemuriform primates) have <Link href="https://en.wikipedia.org/wiki/Toothcomb" className='accented hover:underline'>toothcombs</Link>, which are sets of teeth that resemble combs. Mostly used for grooming, but there&apos;s also some potential other functions like olfaction. Evolved independently through convergent evolution in different mammals!
         </p>
