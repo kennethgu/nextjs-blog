@@ -10,7 +10,7 @@ export default function Home() {
       <div className="py-1 px-5 shrink">
         <img src="/hs.jpg" className="float-right lg:w-1/4 w-2/5 ml-3.5 rounded-md" />
         <p className="lg:w-50 text-justify">
-        Hello! My name's Kenny, and I&apos;m a senior at Harvard College in <Link href="https://currier.harvard.edu" className="accented">Currier House</Link> studying statistics, math, and computer science. My research interests revolve (broadly) around high-dimensional statistics and probability theory: I&apos;m interested in developing performance guarantees for and improving the efficiency of statistical methods in high-dimensional settings.
+        Hello! My name&apos;s Kenny, and I&apos;m a senior at Harvard College in <Link href="https://currier.harvard.edu" className="accented">Currier House</Link> studying statistics, math, and computer science. My research interests revolve (broadly) around high-dimensional statistics and probability theory: I&apos;m interested in developing performance guarantees for and improving the efficiency of statistical methods in high-dimensional settings.
         </p>
         <p className="text-justify">
         Outside of research, I also love thinking and talking about electoral politics/strategies (especially in my lovely home state of Michigan), education policy, pop culture, AI ethics, and the intersection(s) of these things! 
