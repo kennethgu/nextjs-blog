@@ -4,7 +4,7 @@ export default function Navbar() {
     return (
         <div className="flex lg:flex-col flex-row top-0 py-1 px-5">
         <Link href="/">
-          <h1 className="text-lg accented font-bold lg:w-40">
+          <h1 className="text-lg accented font-bold lg:w-32">
             Kenny Gu
           </h1>
         </Link>
