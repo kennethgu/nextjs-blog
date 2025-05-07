@@ -11,7 +11,7 @@ export default function Home() {
         <img src="/hs.jpg" className="float-right lg:w-1/4 w-2/5 ml-3.5 rounded-md" />
         <p className="text-justify">
         Hello! My name&apos;s Kenny, and I&apos;m a senior at Harvard College in <Link href="https://currier.harvard.edu" className="accented">Currier House</Link> studying statistics, math, and computer science. My research interests revolve (broadly) around high-dimensional statistics and machine learning: I&apos;m interested in developing performance guarantees for and improving the efficiency of statistical and ML methods in high-dimensional settings.
-        At Harvard, I've been fortunate to be advised by <Link href="https://sites.harvard.edu/prs499/" className="accented">Prof. Pragya Sur</Link> and <Link href="https://sites.google.com/view/morganeaustern/home" className="accented">Prof. Morgane Austern</Link>.
+        At Harvard, I&apos;ve been fortunate to be advised by <Link href="https://sites.harvard.edu/prs499/" className="accented">Prof. Pragya Sur</Link> and <Link href="https://sites.google.com/view/morganeaustern/home" className="accented">Prof. Morgane Austern</Link>.
         </p>
         <p className="text-justify">
         Outside of research, I also love thinking and talking about electoral politics/strategies (especially in my lovely home state of Michigan), education policy, pop culture, AI ethics, and the intersection(s) of these things! 
